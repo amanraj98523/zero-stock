@@ -1,0 +1,18 @@
+
+[
+  { "id": 1, "name": "Industrial Steel Pipes", "category": "Metals", "price": 120, "quantity": 200, "supplier": "MetalWorks Co.", "sku": "MWC-SP-001" },
+  { "id": 2, "name": "Copper Wire Spools", "category": "Electrical", "price": 85, "quantity": 500, "supplier": "ElectraParts", "sku": "EP-CWS-042" },
+  { "id": 3, "name": "PVC Tubing 2-inch", "category": "Plastics", "price": 18, "quantity": 1000, "supplier": "PolySupply Ltd.", "sku": "PS-PVC-200" },
+  { "id": 4, "name": "Hydraulic Pump Motor", "category": "Machinery", "price": 4500, "quantity": 12, "supplier": "HydroTech Inc.", "sku": "HT-HPM-007" },
+  { "id": 5, "name": "Aluminium Sheet 4x8", "category": "Metals", "price": 340, "quantity": 75, "supplier": "MetalWorks Co.", "sku": "MWC-AS-408" },
+  { "id": 6, "name": "LED Driver Boards", "category": "Electrical", "price": 22, "quantity": 800, "supplier": "ElectraParts", "sku": "EP-LDB-110" },
+  { "id": 7, "name": "Polycarbonate Panels", "category": "Plastics", "price": 95, "quantity": 300, "supplier": "PolySupply Ltd.", "sku": "PS-PCP-030" },
+  { "id": 8, "name": "CNC Spindle Assembly", "category": "Machinery", "price": 1200, "quantity": 8, "supplier": "PrecisionMach", "sku": "PM-CSA-003" },
+  { "id": 9, "name": "Stainless Steel Bolts M10", "category": "Fasteners", "price": 2, "quantity": 5000, "supplier": "FasterFix Corp.", "sku": "FF-SSB-M10" },
+  { "id": 10, "name": "High-Temp Insulation Foam", "category": "Materials", "price": 65, "quantity": 150, "supplier": "ThermoShield", "sku": "TS-HTF-065" },
+  { "id": 11, "name": "Servo Motor 24V DC", "category": "Electrical", "price": 210, "quantity": 60, "supplier": "ElectraParts", "sku": "EP-SM24-009" },
+  { "id": 12, "name": "Galvanized Steel Grating", "category": "Metals", "price": 480, "quantity": 40, "supplier": "MetalWorks Co.", "sku": "MWC-GSG-012" },
+  { "id": 13, "name": "Nylon Hex Nuts M8", "category": "Fasteners", "price": 1, "quantity": 8000, "supplier": "FasterFix Corp.", "sku": "FF-NHN-M8" },
+  { "id": 14, "name": "Conveyor Belt Rubber", "category": "Machinery", "price": 890, "quantity": 20, "supplier": "HydroTech Inc.", "sku": "HT-CBR-020" },
+  { "id": 15, "name": "Epoxy Resin Kit", "category": "Materials", "price": 45, "quantity": 250, "supplier": "ThermoShield", "sku": "TS-ERK-045" }
+]
