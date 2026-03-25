@@ -24,9 +24,9 @@ npm run dev        # runs on http://localhost:5173
 
 ---
 
-```
+
 Deploy link:- https://rad-faloodeh-6bda9f.netlify.app/
-```
+
 
 ## API Reference
 
