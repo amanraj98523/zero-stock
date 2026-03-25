@@ -151,7 +151,7 @@ const results = await meiliIndex.search(q, {
 
 **Simpler interim option (no external service):** build an **inverted index** in-memory at startup — a map of every word token → matching product IDs. This cuts name search from O(n) to O(1) with zero dependencies, and is a solid step before introducing a dedicated search engine.
 
-////Assignment:-2
+###Assignment:-2
 
 # Zeerostock — Inventory Database + APIs
 
